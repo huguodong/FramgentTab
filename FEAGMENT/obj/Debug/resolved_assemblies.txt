@@ -1,0 +1,10 @@
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\FEAGMENT.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\System.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\assemblies\System.ServiceModel.Internals.dll

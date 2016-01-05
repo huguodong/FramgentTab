@@ -1,0 +1,68 @@
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.dll
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.pdb
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.dll.mdb
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.FEAGMENT.apk
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.FEAGMENT-Signed.apk
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\bin\Debug\Xamarin.Android.Support.v4.dll
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\FEAGMENT.dll
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\FEAGMENT.pdb
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\android\bin\FEAGMENT.FEAGMENT.apk
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\layout\a.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\layout\b.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\layout\c.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\layout\d.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\layout\e.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\layout\main.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\values\strings.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\icon.png
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tababoutus.png
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tabconfigicon.png
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tablatestalert.png
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tabrecommd.png
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tabsearch.png
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\selector_tab.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\values\colors.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\R.cs.flag
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\uploadflags.txt
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_bottom_in.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_left_in.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_left_out.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_right_in.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_right_out.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_top_out.xml
+d:\documents\visual studio 2012\Projects\FEAGMENT\FEAGMENT\obj\Debug\res\layout\layout1.xml
+E:\xamarin\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.dll
+E:\xamarin\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.pdb
+E:\xamarin\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.FEAGMENT.apk
+E:\xamarin\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.FEAGMENT-Signed.apk
+E:\xamarin\FEAGMENT\FEAGMENT\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\FEAGMENT.csprojResolveAssemblyReference.cache
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\FEAGMENT.dll
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\FEAGMENT.pdb
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\android\bin\FEAGMENT.FEAGMENT.apk
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\layout\a.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\layout\b.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\layout\c.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\layout\d.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\layout\e.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\layout\layout1.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\layout\main.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\values\strings.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\icon.png
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tababoutus.png
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tabconfigicon.png
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tablatestalert.png
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tabrecommd.png
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\tabsearch.png
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\drawable\selector_tab.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\values\colors.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_bottom_in.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_left_in.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_left_out.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_right_in.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_right_out.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\res\anim\slide_top_out.xml
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\R.cs.flag
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\uploadflags.txt
+E:\xamarin\FEAGMENT\FEAGMENT\obj\Debug\FEAGMENT.dll.mdb
+E:\xamarin\FEAGMENT\FEAGMENT\bin\Debug\FEAGMENT.dll.mdb
